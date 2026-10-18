@@ -1,0 +1,61 @@
+{
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "C:\\Users\\whyhe\\.claude\\plugins\\marketplaces\\claude-plugins-official",
+    "lastUpdated": "2026-07-18T23:04:10.115Z"
+  },
+  "thedotmack": {
+    "source": {
+      "source": "github",
+      "repo": "thedotmack/claude-mem"
+    },
+    "installLocation": "C:\\Users\\whyhe\\.claude\\plugins\\marketplaces\\thedotmack",
+    "lastUpdated": "2026-07-24T19:01:21.911Z",
+    "autoUpdate": true
+  },
+  "DietrichGebert-ponytail": {
+    "source": {
+      "source": "github",
+      "repo": "DietrichGebert/ponytail"
+    },
+    "installLocation": "C:\\Users\\whyhe\\.claude\\plugins\\marketplaces\\DietrichGebert-ponytail",
+    "lastUpdated": "2026-06-23T20:58:00.000Z",
+    "autoUpdate": true
+  },
+  "headroomlabs-ai-headroom": {
+    "source": {
+      "source": "github",
+      "repo": "headroomlabs-ai/headroom"
+    },
+    "installLocation": "C:\\Users\\whyhe\\.claude\\plugins\\marketplaces\\headroomlabs-ai-headroom",
+    "lastUpdated": "2026-06-23T21:30:00.000Z",
+    "autoUpdate": true
+  },
+  "agent-browser": {
+    "source": {
+      "source": "directory",
+      "path": "C:\\Users\\whyhe\\tools\\agent-browser"
+    },
+    "installLocation": "C:\\Users\\whyhe\\tools\\agent-browser",
+    "lastUpdated": "2026-07-01T13:32:33.384Z"
+  },
+  "cloudflare": {
+    "source": {
+      "source": "github",
+      "repo": "cloudflare/skills"
+    },
+    "installLocation": "C:\\Users\\whyhe\\.claude\\plugins\\marketplaces\\cloudflare",
+    "lastUpdated": "2026-08-22T03:51:27.568Z"
+  },
+  "21st": {
+    "source": {
+      "source": "github",
+      "repo": "21st-dev/claude-code-plugin"
+    },
+    "installLocation": "C:\\Users\\whyhe\\.claude\\plugins\\marketplaces\\21st",
+    "lastUpdated": "2026-10-15T05:14:22.027Z"
+  }
+}

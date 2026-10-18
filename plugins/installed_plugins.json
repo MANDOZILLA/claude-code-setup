@@ -1,0 +1,131 @@
+{
+  "version": 2,
+  "plugins": {
+    "frontend-design@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\frontend-design\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-05-01T00:56:50.332Z",
+        "lastUpdated": "2026-05-01T00:56:50.332Z"
+      }
+    ],
+    "vercel@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\vercel\\0.43.0",
+        "version": "0.43.0",
+        "installedAt": "2026-05-18T19:50:22.145Z",
+        "lastUpdated": "2026-05-18T19:50:22.145Z",
+        "gitCommitSha": "1edb125d13a29a1e6212f5ca5afcdf1b89b9b211"
+      }
+    ],
+    "claude-mem@thedotmack": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\thedotmack\\claude-mem\\13.12.4",
+        "version": "13.12.4",
+        "installedAt": "2026-06-15T21:39:12.280Z",
+        "lastUpdated": "2026-07-24T19:01:22.681Z",
+        "gitCommitSha": "132b46343e60ecf4057c427736c57b08f7615dfe"
+      }
+    ],
+    "ponytail@DietrichGebert-ponytail": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\DietrichGebert-ponytail\\ponytail\\4.8.1",
+        "version": "4.8.1",
+        "installedAt": "2026-06-23T20:58:00.000Z",
+        "lastUpdated": "2026-06-23T20:58:00.000Z"
+      }
+    ],
+    "headroom@headroomlabs-ai-headroom": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\headroomlabs-ai-headroom\\headroom\\0.22.3",
+        "version": "0.22.3",
+        "installedAt": "2026-06-23T21:30:00.000Z",
+        "lastUpdated": "2026-06-23T21:30:00.000Z"
+      }
+    ],
+    "agent-browser@agent-browser": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\agent-browser\\agent-browser\\ed2e10598c90",
+        "version": "ed2e10598c90",
+        "installedAt": "2026-07-01T13:32:42.715Z",
+        "lastUpdated": "2026-07-01T13:32:42.715Z",
+        "gitCommitSha": "ed2e10598c9064aecfaeb7cf21b540684db4be2c"
+      }
+    ],
+    "superpowers@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\superpowers\\6.1.1",
+        "version": "6.1.1",
+        "installedAt": "2026-07-24T18:15:08.532Z",
+        "lastUpdated": "2026-07-24T18:15:08.532Z",
+        "gitCommitSha": "d884ae04edebef577e82ff7c4e143debd0bbec99"
+      }
+    ],
+    "chrome-devtools-mcp@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\chrome-devtools-mcp\\1.6.0",
+        "version": "1.6.0",
+        "installedAt": "2026-07-24T18:15:40.929Z",
+        "lastUpdated": "2026-07-24T18:15:40.929Z",
+        "gitCommitSha": "76fd2424984827802867672fcc8d0e0036f4a3af"
+      }
+    ],
+    "skill-creator@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\skill-creator\\unknown",
+        "version": "unknown",
+        "installedAt": "2026-07-24T19:04:30.318Z",
+        "lastUpdated": "2026-07-24T19:04:30.318Z"
+      }
+    ],
+    "remember@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\remember\\0.8.3",
+        "version": "0.8.3",
+        "installedAt": "2026-07-24T19:05:27.500Z",
+        "lastUpdated": "2026-07-24T19:05:27.500Z",
+        "gitCommitSha": "7db78669853c2443c0bc841061e7ceb9f16d16cb"
+      }
+    ],
+    "stripe@claude-plugins-official": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\claude-plugins-official\\stripe\\0.2.8",
+        "version": "0.2.8",
+        "installedAt": "2026-08-02T00:40:07.654Z",
+        "lastUpdated": "2026-08-02T00:40:07.654Z",
+        "gitCommitSha": "c29cd23cfd27830bf10961d58646a9fd127fa6df"
+      }
+    ],
+    "cloudflare@cloudflare": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\cloudflare\\cloudflare\\1.0.0",
+        "version": "1.0.0",
+        "installedAt": "2026-08-22T03:51:34.510Z",
+        "lastUpdated": "2026-08-22T03:51:34.510Z",
+        "gitCommitSha": "f96bff754e428838818017f75817f0f9428acd48"
+      }
+    ],
+    "21st@21st": [
+      {
+        "scope": "user",
+        "installPath": "C:\\Users\\whyhe\\.claude\\plugins\\cache\\21st\\21st\\0.4.1",
+        "version": "0.4.1",
+        "installedAt": "2026-10-15T05:14:23.520Z",
+        "lastUpdated": "2026-10-15T05:14:23.520Z",
+        "gitCommitSha": "f76b07aec6e65a582abe4b20bf3ec7b0fa64968a"
+      }
+    ]
+  }
+}
